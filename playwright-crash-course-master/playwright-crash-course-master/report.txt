@@ -1,0 +1,9 @@
+BMI Report
+
+Your BMI is Your Body Mass Index is 26.29., 
+                
+Calorie Intake is supposed to be Your Minimum Calorie Intake should be 3942.86.
+                
+Calorie Burn is supposed to be Your Minimum Calorie Burn should be 3154.29.
+                
+You are overweight. Consult a doctor!
